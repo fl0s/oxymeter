@@ -1,0 +1,3 @@
+export const BLE_CONNECT = 'BLE_CONNECT';
+export const BLE_DISCONNECT = 'BLE_DISCONNECT';
+export const BLE_DISCONNECTED = 'BLE_DISCONNECTED';
