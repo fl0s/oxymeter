@@ -1,0 +1,14 @@
+{
+  "main.css": "/oxymeter/static/css/main.3f1e284f.chunk.css",
+  "main.js": "/oxymeter/static/js/main.0825d15a.chunk.js",
+  "main.js.map": "/oxymeter/static/js/main.0825d15a.chunk.js.map",
+  "runtime~main.js": "/oxymeter/static/js/runtime~main.ef91cab9.js",
+  "runtime~main.js.map": "/oxymeter/static/js/runtime~main.ef91cab9.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/oxymeter/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/oxymeter/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/oxymeter/index.html",
+  "precache-manifest.2d3061ab814e06407dd66124fee39aa8.js": "/oxymeter/precache-manifest.2d3061ab814e06407dd66124fee39aa8.js",
+  "service-worker.js": "/oxymeter/service-worker.js",
+  "static/css/main.3f1e284f.chunk.css.map": "/oxymeter/static/css/main.3f1e284f.chunk.css.map",
+  "static/media/logo.svg": "/oxymeter/static/media/logo.5d5d9eef.svg"
+}
