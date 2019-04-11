@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oxymeter/precache-manifest.2d3061ab814e06407dd66124fee39aa8.js"
+  "/oxymeter/precache-manifest.f09d4f543f298f29260ba7a3b4e9c41d.js"
 );
 
 workbox.clientsClaim();
